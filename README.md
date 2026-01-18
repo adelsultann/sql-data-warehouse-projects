@@ -33,6 +33,9 @@ This project involves:
 
 ---
 
+## 📝 database relationship diagram
+
+![database relationship ](docs/database_relation.png)
 
 ## 🚀 Project Requirements
 
