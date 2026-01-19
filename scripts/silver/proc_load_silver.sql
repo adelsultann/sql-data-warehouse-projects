@@ -1,3 +1,5 @@
+EXEC silver.load_silver
+
 /*
 ===============================================================================
 Stored Procedure: Load Silver Layer (Bronze -> Silver)
